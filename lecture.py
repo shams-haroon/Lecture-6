@@ -1,19 +1,4 @@
-print("Hello World")
-print()
-
-for i in [1,2,3,4]:
-    print(i)
+class Pet:
     
-print("glrtgit")
-
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
+    def __init__(self):
+        pass
